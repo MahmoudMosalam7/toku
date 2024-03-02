@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870033273100",
+    "project_id": "rivrpod-fd812",
+    "storage_bucket": "rivrpod-fd812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870033273100:android:5501702c9628b763995929",
+        "android_client_info": {
+          "package_name": "com.toku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJM5oHE-XHxcDt2tOULfyMzlbkUbliFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
